@@ -27,7 +27,7 @@ This project consists of two screens:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ProfileApp.git](https://github.com/YOUR_USERNAME/ProfileApp.git)
+    git clone [https://github.com/Amiirahesham/ProfileApp.git](https://github.com/Amiirahesham/mobileAppTask.git)
     ```
     *(Remember to replace `YOUR_USERNAME` with your GitHub username)*
 
