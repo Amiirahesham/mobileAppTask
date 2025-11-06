@@ -29,7 +29,7 @@ This project consists of two screens:
     ```bash
     git clone [https://github.com/Amiirahesham/ProfileApp.git](https://github.com/Amiirahesham/mobileAppTask.git)
     ```
-    *(Remember to replace `YOUR_USERNAME` with your GitHub username)*
+   
 
 2.  **Open in Android Studio:**
     * Open Android Studio.
