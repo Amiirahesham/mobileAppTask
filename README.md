@@ -46,17 +46,3 @@ This project consists of two screens:
     * Select an emulator or connect a physical device.
     * Click the "Run" button.
 
-## 📱 Screenshots
-
-*(Optional: Add screenshots of your app here!)*
-
-| Main Screen | Detail Screen |
-| :---: | :---: |
-| 
-
-[Image of Main Screen]
- | 
-
-[Image of Detail Screen]
- |
- 
